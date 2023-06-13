@@ -1,4 +1,3 @@
-import css from './Notificatio.module.css'
 import PropTypes from 'prop-types';
 
 export const Notificatio = ({message}) => {
